@@ -1,4 +1,4 @@
-# Цена дома в городе Казань
+# House price prediction in Kazan
 
 *Web interface to the model created with Streamlit*
 
